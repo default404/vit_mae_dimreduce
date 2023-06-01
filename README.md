@@ -7,3 +7,13 @@ The AE model is an implementation of the Vision Transformer (ViT) from [Masked A
 The code is an implementation of [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) and inspired by this [keras.io example](https://github.com/keras-team/keras-io/blob/master/examples/vision/masked_image_modeling.py).
 
 Example Notebooks provide model handeling for [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [MNIST](http://yann.lecun.com/exdb/mnist/).
+
+### Installation
+
+Required packages:
+- tensorflow 
+- tensorflow-addons 
+- matplotlib 
+- scikit-learn 
+- pandas 
+- jupyter-server
